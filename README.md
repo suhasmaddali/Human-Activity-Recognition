@@ -1,1 +1,1 @@
-# Human-Activity-Recognition-Using-Deep-Learning-And-Machine-Learning-Techniques
+# Human Activity Recognition Using Machine Learning and Deep Learning Approaches
