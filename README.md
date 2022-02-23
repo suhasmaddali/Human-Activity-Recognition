@@ -8,7 +8,7 @@ With a large volume of __smartwatches__ and __phones__ being manufactured, there
 ![](https://github.com/suhasmaddali/Images/blob/main/fitsum-admasu-oGv9xIl7DkY-unsplash.jpg)
 
 ## Machine Learning Analysis
-In this project, we are going to be working with machine learning and deep learning algorithms that would predict the activity performed by users based on the tracking data. You can open the IPYTHON notebook to get started. Thanks! 
+In this project, we are going to be working with machine learning and deep learning algorithms that would predict the activity performed by users based on the tracking data. Feel free to open the ipython notebook to get started. Thanks! 
 
 ## 👉 Directions to download the repository and run the notebook 
 
