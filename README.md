@@ -19,10 +19,10 @@ In this project, we are going to be working with machine learning and deep learn
 
 Taking a look at the features that are related to each other and the overall presence of missing values should help in determining the activity of a person. Below are some key insights that were generated as a result of exploratory data analysis (EDA).
 
-* There are more number of data points of people laying down compared to other activities such as standing or walking.
-* Moving activities usually have a higher body acceleration magnitude mean (TBodyAccMagMean) compared to the activities that are stationary.
-* Therefore, activities such as walking, walking downstairs and walking upstairs have higher mean of acceleration magnitude compared to activities such as standing, sitting and laying. 
-* An important feature called 'GravityAccelerationComponents' can also help distinguish between various activities performed by users. For example, the value for this feature is high when a person is laying compared to other activities such as standing or walking downstairs. 
+* There are more number of __data points__ of people laying down compared to other activities such as __standing__ or __walking__.
+* Moving activities usually have a __higher body acceleration magnitude mean (TBodyAccMagMean)__ compared to the activities that are stationary.
+* Therefore, activities such as __walking__, __walking downstairs__ and __walking upstairs__ have higher mean of acceleration magnitude compared to activities such as __standing__, __sitting__ and __laying__. 
+* An important feature called __'GravityAccelerationComponents'__ can also help distinguish between various activities performed by users. For example, the value for this feature is high when a person is laying compared to other activities such as __standing__ or __walking downstairs__. 
 
 ## 👉 Directions to download the repository and run the notebook 
 
