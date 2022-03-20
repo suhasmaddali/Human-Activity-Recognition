@@ -15,6 +15,14 @@ With a large volume of __smartwatches__ and __phones__ being manufactured, there
 ## Machine Learning Analysis
 In this project, we are going to be working with machine learning and deep learning algorithms that would predict the activity performed by users based on the tracking data. Feel free to open the ipython notebook to get started. Thanks! 
 
+## Exploratory Data Analysis (EDA)
+
+Taking a look at the features that are related to each other and the overall presence of missing values should help in determining the activity of a person. Below are some key insights that were generated as a result of exploratory data analysis (EDA).
+
+* There are more number of data points of people laying down compared to other activities such as standing or walking.
+* Moving activities usually have a higher body acceleration magnitude mean (TBodyAccMagMean) compared to the activities that are stationary.
+* Therefore, activities such as walking, walking downstairs and walking upstairs have higher mean of acceleration magnitude compared to activities such as standing, sitting and laying. 
+
 ## 👉 Directions to download the repository and run the notebook 
 
 This is for the Washington Bike Demand Prediction repository. But the same steps could be followed for this repository. 
