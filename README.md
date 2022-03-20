@@ -22,6 +22,7 @@ Taking a look at the features that are related to each other and the overall pre
 * There are more number of data points of people laying down compared to other activities such as standing or walking.
 * Moving activities usually have a higher body acceleration magnitude mean (TBodyAccMagMean) compared to the activities that are stationary.
 * Therefore, activities such as walking, walking downstairs and walking upstairs have higher mean of acceleration magnitude compared to activities such as standing, sitting and laying. 
+* An important feature called 'GravityAccelerationComponents' can also help distinguish between various activities performed by users. For example, the value for this feature is high when a person is laying compared to other activities such as standing or walking downstairs. 
 
 ## 👉 Directions to download the repository and run the notebook 
 
